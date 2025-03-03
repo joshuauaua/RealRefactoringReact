@@ -1,0 +1,13 @@
+{
+    "user": "Joshua Ng",
+    "workplace" : [
+      {
+        "name": "STPLN",
+        "role": "lorem ipsum"
+      },
+      {
+        "name":"Connectors Society",
+        "role": "lorem ipsum 2" 
+        }
+    ]
+}
